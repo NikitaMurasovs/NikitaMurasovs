@@ -15,11 +15,11 @@ I hold a PhD in Robotics from the University of Leeds and currently work as an A
 
 ## Technology stack
 
-**Languages:** Python, SQL, TypeScript  
-**Data and ML:** Pandas, NumPy, SciPy, scikit-learn, PyTorch, Matplotlib  
-**Data engineering:** PostgreSQL, APIs, WebSockets, ETL pipelines  
-**Web:** Next.js, React, Tailwind CSS  
-**Research:** Statistical modelling, time-series analysis, backtesting, optimisation
+**Languages:**         Python, SQL, TypeScript  
+**Data and ML:**       Pandas, NumPy, SciPy, scikit-learn, PyTorch, Matplotlib  
+**Data engineering:**  PostgreSQL, APIs, WebSockets, ETL pipelines  
+**Web:**               Next.js, React, Tailwind CSS  
+**Research:**          Statistical modelling, time-series analysis, backtesting, optimisation
 
 ## Links
 
