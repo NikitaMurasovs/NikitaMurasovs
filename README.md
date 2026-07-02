@@ -13,7 +13,13 @@ I hold a PhD in Robotics from the University of Leeds and currently work as an A
 - Blockchain infrastructure and smart contracts
 - Risk management and strategy evaluation
 
-My work combines Python, data engineering, experimentation, statistical analysis, and machine learning. This profile will contain research projects, tools, experiments, and supporting code from my personal portfolio.
+## Technology stack
+
+**Languages:** Python, SQL, TypeScript  
+**Data and ML:** Pandas, NumPy, SciPy, scikit-learn, PyTorch, Matplotlib  
+**Data engineering:** PostgreSQL, APIs, WebSockets, ETL pipelines  
+**Web:** Next.js, React, Tailwind CSS  
+**Research:** Statistical modelling, time-series analysis, backtesting, optimisation
 
 ## Links
 
@@ -21,7 +27,7 @@ My work combines Python, data engineering, experimentation, statistical analysis
 - [LinkedIn](https://www.linkedin.com/in/nikita-murasovs/)
 - [Google Scholar](https://scholar.google.com/citations?user=4lbt8k4AAAAJ)
 - [Substack](https://substack.com/@nmurasovs)
-- [Twitter/X](https://x.com/NikitaMurasovs)
+- [Twitter / X](https://x.com/NikitaMurasovs)
 
 <!--
 **NikitaMurasovs/NikitaMurasovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
