@@ -1,5 +1,6 @@
 # Nikita Murasovs
 
+
 Data scientist & robotics PhD. Machine learning, quantitative finance, crypto markets, and on-chain data.
 
 I hold a PhD in Robotics from the University of Leeds and currently work as an Associate Data Scientist. Alongside my main role, I work as a WorldQuant Brain Research Consultant and conduct independent quantitative research.
